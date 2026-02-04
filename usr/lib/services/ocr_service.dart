@@ -13,9 +13,9 @@ OCR Scan Result
 ----------------
 Date: 2023-10-27
 Item: Coffee
-Price: $4.50
+Price: \$4.50
 
-Total: $4.50
+Total: \$4.50
 Thank you for your business!
     """;
   }
